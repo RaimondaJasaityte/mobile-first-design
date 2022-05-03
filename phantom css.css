@@ -1,0 +1,42 @@
+header img {
+    width: 200px;
+  }
+
+  
+main h1 {
+  color: rgb(83, 73, 73);  
+  font-weight: 600;  
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main h2 {
+  background-color: #f2f2f2;
+  color: rgb(19, 18, 18);
+  font-size: medium;
+}
+
+main p {
+  color: darkgrey;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+@media screen (min-width: 768px) {
+    display: inline;
+  }
+
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+
+  #GET-IN-TOUCH {
+    border: none;
+    
+  }
+
+  footer {
+    text-align: center;
+    background-color: #f2f2f2;
+  }
